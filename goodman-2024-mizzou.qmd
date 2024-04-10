@@ -1,0 +1,173 @@
+---
+title: Fragmentation in Local & State Policymaking
+#subtitle: An Experiment
+format: niu-revealjs
+author:
+  - name: Christopher B. Goodman
+    orcid: 0000-0002-8565-9714
+    email: cgoodman@niu.edu
+    affiliations: School of Public & Global Affairs<br>Northern Illinois University
+date: 2024-04-11
+bibliography: references.bib
+---
+
+# 
+
+::: {.r-stack .r-fit-text}
+**Who do local governments serve?**
+:::
+
+## Two opposing views
+
+::: columns
+::: {.column width="50%"}
+#### Creatures of the state
+
+-   Legally defined
+-   Corporate rights
+-   Top down
+:::
+
+::: {.column width="50%"}
+#### Creatures of the public
+
+-   Culturally defined
+-   Associational rights
+-   Bottom up
+:::
+:::
+
+Which side you come down on has implications for both how you view local government and how you view state intervention in local affairs.
+
+::: aside
+Loosely based on @miller2014.
+:::
+
+## Before we proceed...
+
+### A few definitions
+
+::: {.callout-important icon="false"}
+## Fragmentation
+
+The number of distinct units of local government within a given area.
+:::
+
+::: {.callout-important icon="false"}
+## Concentration
+
+The distribution of service delivery and/or revenue generation responsibilities.
+:::
+
+::: {.callout-important icon="false"}
+## Decentralization
+
+The degree to which the state has delegated authority to local governments. One end of a spectrum with centralization.
+:::
+
+## Additionally
+
+Fragmentation or concentration may be *horizontal* or *vertical*
+
+-   Horizontal: the number of units within the same tier of local government (e.g., the number of municipalities in a particular area)
+-   Vertical: the number of tiers of local government
+
+It is possible to have a high degree of fragmentation and a high degree of concentration at the same time
+
+-   Or any other combination
+
+## Implications
+
+-   Much research has been conducted on the horizontal elements
+
+    -   Institutional reform vs. Public choice
+
+-   Much less work on the vertical arrangements
+
+    -   Separation of production from provision
+
+## Centralization v. Decentralization
+
+-   A trend toward state centralization over time
+
+    -   Some empirical work documenting this but it varies considerably by state
+    -   Local practitioners report a trend toward centralization
+
+-   How does this manifest?
+
+##  {background-image="img/state-local.png" background-size="100%"}
+
+##  {background-image="img/state-local-emp.png" background-size="100%"}
+
+##  {background-image="img/state-local-exp.png" background-size="100%"}
+
+## If not in the relative size, what then?
+
+-   Regulatory space
+
+    -   States are not necessarily supplanting local service provision
+    -   Rather, they are regulating what can and cannot be done at the local level
+
+. . .
+
+::: {.callout-important icon="false"}
+## Preemption
+
+*The use of coercive methods to substitute state priorities for local policymaking* [@goodmanetal2021]
+:::
+
+## Preemption examples
+
+-   Minimum wage
+-   Fair scheduling
+-   Project labor agreements
+-   Prevailing wage
+-   Paid sick leave
+
+*Note*: none of these are about the balance of service delivery or revenue generation between state and local governments.
+
+::: aside
+@goodman2024
+:::
+
+## Why is this happening?
+
+-   Plenty of empirical evidence
+
+    -   Some policy domain specific explanations
+    -   Politics
+
+-   On a normative level, we are seeing conflict over who local governments serve
+
+    -   For many decades, the creatures of the people view prevailed
+    -   Now, some states are reasserting their view that local governments are creatures of the state
+
+## Implications of preemption for local governments
+
+-   Loss of autonomy
+
+    -   Local governments exist to implement state delegated authority
+    -   States have the right to re-evaluate that authority at any time
+    -   Importantly, this is service delivery/revenue authority **and** regulatory authority
+
+-   Difficulty responding to resident demands
+
+-   Complexity in delivering services when policy implementation is full of compliance checks
+
+## Implications of preemption for local government research
+
+-   How do we think about the previous literature on local government fragmentation and concentration when (some) states preempt away meaningful differences between local governments?
+
+    -   What value is there in a fragmented metropolis if all local governments are doing the same thing?
+    -   How would we identify any differentiation?
+
+#  {background-color="#333333"}
+
+::: {.r-stack}
+**Questions?**
+:::
+
+## References {visibility="uncounted"}
+
+::: {#refs}
+:::
